@@ -1,4 +1,4 @@
-# Paper-Airplane-Factorial-Design
+# Paper Airplane Factorial Design
 
 ## Research Question 
 How do different combinations of paper clip placements (nose, middle, rear) on a paper airplane influence its flight distance? 
