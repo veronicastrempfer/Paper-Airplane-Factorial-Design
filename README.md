@@ -9,6 +9,7 @@ How do different combinations of paper clip placements (nose, middle, rear) on a
 
 ## Tools
 - All analysis, calculations, and visualizations done in R
+- Packages: knitr, ggplot2
 
 ## Overall Findings
 - Linear modeling suggested no significant effect of paper clip placement (nose, middle, rear) or their interactions on flight distance.
